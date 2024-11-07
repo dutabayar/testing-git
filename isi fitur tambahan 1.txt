@@ -1,0 +1,4 @@
+ini adalah isi rencana fitur 1
+- loc
+- vlog
+- cable
