@@ -1,0 +1,4 @@
+ini adalah isi rencana fitur 1
+- loc (fitur location)
+- vlog (CRUD video)
+- cable (snapshoot product cable)
